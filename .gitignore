@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# misc
+.DS_Store
+
+# environment variables (PENTING AGAR API KEY ANDA TIDAK BOCOR)
+.env.local
+.env*.local
